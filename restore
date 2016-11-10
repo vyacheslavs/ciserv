@@ -1,0 +1,2 @@
+rm secrets.db
+cp secrets.db.bak secrets.db
